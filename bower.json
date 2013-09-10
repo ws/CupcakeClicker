@@ -1,0 +1,17 @@
+{
+  "name": "CupcakeClicker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ws/CupcakeClicker",
+  "authors": [
+    "Will Smidlein <Will@WillSmidlein.com>"
+  ],
+  "description": "A cookie clicker clone. But with cupcakes. And multiplayer.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
